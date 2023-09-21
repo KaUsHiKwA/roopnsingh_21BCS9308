@@ -1,1 +1,8 @@
-# roopnsingh_21BCS9308
+#TEAM DETAILS
+
+LEADER<br>
+Roop Nayan Singh, 21BCS9308, 9451453167
+<br>
+MEMBER<br>
+Mohit Biswas, 21BCS9832, 8134856581
+
